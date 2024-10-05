@@ -1,3 +1,3 @@
 ## Object Detection with RetinaNet
 
-Demonstrations of RetinaNet on Classification (Weather Image) problem.
+Demonstrations of RetinaNet on Classification & Detection (Weather Image) problem.
